@@ -2,15 +2,15 @@
 A compilation of dashboards designed to help prospective renters and home buyers in identifying suitable properties to stay or invest in New York.
 
 Data Sources:
-1. Airbnb rental data from New York - Inside AirBnB:
+1. Airbnb rental data from New York - Inside AirBnB: 
 http://insideairbnb.com/get-the-data/
 2. Tourist spots geolocation data - MyGeoData: 
-https://mygeodata.cloud/data/download/osm/tourist-at tractions/united-states-of-america--new-york/new-york -county
-3. Subway Geolocation - NYC Open Data: https://data.cityofnewyork.us/Transportation/Subway- Stations/arq3-7z49
+https://mygeodata.cloud/data/download/osm/tourist-attractions/united-states-of-america--new-york/new-york -county
+3. Subway Geolocation - NYC Open Data: https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49
 4. Crime Data - NYC Open Data:
 https://data.cityofnewyork.us/Public-Safety/Crime-Ma p-/5jvd-shfj
 5. Historical Property Transaction Data - NYC Department of Finance:
-https://www.nyc.gov/site/finance/taxes/property-annua lized-sales-update.page
+https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.page
 
 Introduction
 The goal of this project is to employ Tableau on publicly available data relevant to assessing the attractiveness of properties in New York. The objective is help an investor prospect for a property to stay and rent. The hypothetical client in question possesses the following characteristics and preferences - the criteria was chosen to
