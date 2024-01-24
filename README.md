@@ -5,10 +5,10 @@ Data Sources:
 1. Airbnb rental data from New York - Inside AirBnB: 
 http://insideairbnb.com/get-the-data/
 2. Tourist spots geolocation data - MyGeoData: 
-https://mygeodata.cloud/data/download/osm/tourist-attractions/united-states-of-america--new-york/new-york -county
+https://mygeodata.cloud/data/download/osm/tourist-attractions/united-states-of-america--new-york/new-york-county
 3. Subway Geolocation - NYC Open Data: https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49
 4. Crime Data - NYC Open Data:
-https://data.cityofnewyork.us/Public-Safety/Crime-Ma p-/5jvd-shfj
+https://data.cityofnewyork.us/Public-Safety/Crime-Map-/5jvd-shfj
 5. Historical Property Transaction Data - NYC Department of Finance:
 https://www.nyc.gov/site/finance/taxes/property-annualized-sales-update.page
 
